@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+.vs
+result
+.avi
+/arduino_code/valve_control/signal/odd
+/arduino_code/valve_control/signal/even
+/arduino_code/valve_control/signal
+/dist/
+/build/

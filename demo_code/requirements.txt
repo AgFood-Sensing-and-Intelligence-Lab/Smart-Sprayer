@@ -1,0 +1,7 @@
+openpyxl
+scikit-learn
+ultralytics
+opencv-python
+# python=3.8
+# protobuf==3.20    
+# numpy==1.23.4

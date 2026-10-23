@@ -1,0 +1,22 @@
+# python 3.8
+openpyxl
+scikit-learn
+ultralytics
+opencv-python
+PyQt5
+loguru
+# pip install onnx-simplifier -U
+# ERROR: Could not build wheels for yolox, which is required to install pyproject.toml-based projects
+# yolox
+pyserial
+# pyrealsense2
+chardet
+
+# Vimba X SDK
+# vmbpy
+
+# install pytorch 2.0.1/
+# conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+
+pyebus
+pvlib
